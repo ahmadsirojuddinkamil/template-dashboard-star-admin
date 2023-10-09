@@ -1,56 +1,71 @@
-# Square React Dashboard Template
+<a href="https://www.bootstrapdash.com/demo/star-admin-free/index.html" target="_blank"><img src="screenshot.jpg"></a>
 
-Built with [Webpack](https://webpack.js.org/), [Babel](https://babeljs.io/), [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [React Router](https://reacttraining.com/react-router/web/guides/quick-start), [Redux](https://redux.js.org/), [styled-components](https://www.styled-components.com/) and latest industry best practices.
+<h1>StarAdmin-Free-Bootstrap-Admin-Template</h1>
+Star Admin is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
 
-> No create-react-app, classes react components, Bootstrap and jQuery.
+Star Admin is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems,  project management systems, CMS or CRM.
 
-Plus you will see how to use correctly:
+Although the template has a design like none other, it is easily customizable to suit your requirements. Star Admin comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump starting your project.
 
-- [axios](https://github.com/axios/axios)
-- [Reselect](https://github.com/reduxjs/reselect)
-- [Redux Thunk](https://github.com/reduxjs/redux-thunk)
-- React memo
-- React Hooks
-- React Portals
-- React lazy & Suspense
-- React Error Boundaries
 
-## Demo
+<h1>Credits:</h1>
 
-[Link](https://heysafronov.github.io/square-react-dashboard/dist/#/login). Use login and password "admin" to log in.
+- Bootstrap 4
+- Font Awesome
+- jQuery
+- Gulp
+- Chart.js
+- Google Maps
+- Perfect Scrollbar
 
-Try to use drag and drop and other functionality. If this repository is interest and will get more than 10 stars, then the plan is will expanding current functionality and writing Style Guide for medium+ projects with React + TypeScript technical stack.
+<h1>Browser Support:</h1>
 
-<img src="https://raw.githubusercontent.com/heysafronov/square-react-dashboard/master/src/assets/images/github/1.png?token=AH7OSB5PYK3KP7EJQ5UZIWS57NC7C">
+StarAdmin is designed to work flawlessly with all the latest and modern web browsers.
 
-##
+- Chrome (latest)
+- FireFox (latest)
+- Safari (latest)
+- Opera (latest)
+- IE10+  
 
-<img src="https://raw.githubusercontent.com/heysafronov/square-react-dashboard/master/src/assets/images/github/2.png?token=AH7OSB5IMVKZRKF4IGWPYGC57NE6W">
+<h1>License Information:</h1>
 
-##
 
-<img src="https://raw.githubusercontent.com/heysafronov/square-react-dashboard/master/src/assets/images/github/3.png?token=AH7OSB62OXLUV4MUGGZNIES57NFBM">
+Star Admin is released under MIT license. Star Admin is a free Bootstrap 4 admin template developed from BootstrapDash. Feel free to download it, use it, share it, get creative with it.
 
-##
+<h1>How to use Star Admin?</h1>
 
-<img src="https://raw.githubusercontent.com/heysafronov/square-react-dashboard/master/src/assets/images/github/4.png?token=AH7OSBY673H43LTKHI6BCC257NFHS">
 
-##
+1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template.git in you terminal to get a copy of this template.
 
-<img src="https://raw.githubusercontent.com/heysafronov/square-react-dashboard/master/src/assets/images/github/5.png">
+2 - After the files have been downloaded you will get a folder with all the required files
 
-## Back-end
+3 - You can install all the dependencies in the template by running the command npm install. All the required files are in the node modules.
 
-Using [Firebase](https://firebase.google.com/) as simple backend.
+4 - Find the file named index.html, check what all components you need. Open the file in a text editor and you can start editing.
 
-## Browser support
+5 - Now that your project has now kick-started, all you need to do now is to code, code, and code to your heart's content.
 
-Compatible with every evergreen browser.
+<h1>How to Contribute?:</h1>
 
-## Web design
 
-Iconspace. [Stylish Dashboard UI Kit for Various Need](https://iconspace.co/product/square-dashboard-ui-kit/). Made with a unique style using rounded corner shape & modern color scheme. Make it looks dynamic and matches with the current and future design styles.
+We love your contributions and we welcome them wholeheartedly. We believe the more the merrier.
+To contribute make sure you have a Node.js and npm installed. Now run the command gulp --version. If the command returns with the Gulp version number, it means you have Gulp installed. If not you need to run the command npm install --global gulp-cli to install Gulp.
 
-## License
+<h2>Next</h2>
 
-Licensed under [MIT](https://github.com/heysafronov/square-react-dashboard/blob/master/LICENSE).
+After Gulp has been installed, follow the steps below to contribute.
+  <br>
+	1 - Fork and clone the repo of Star Admin.
+  <br>
+	2 - Run the command npm install to install all the dependencies.
+  <br>
+	3 - Enter the command gulp serve. This will open Star Admin in your default browser.
+  <br>
+	4 - Make you valuable contribution
+  <br>
+	5 - Submit a pull request.
+  <hr>
+	Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design.
+Visit
+  <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
